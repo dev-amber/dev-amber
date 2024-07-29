@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Mern-Stack Developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+
 - 🌱 I’m currently learning **Mern-Stack,DSA, and others**
 
 - 📝 I regularly write articles on [https://medium.com/@ambernaz1000](https://medium.com/@ambernaz1000)
@@ -12,6 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/amber naz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amber naz" height="30" width="40" /></a>
+<a href="https://instagram.com/ambernaz1000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ambernaz1000" height="30" width="40" /></a>
+<a href="https://medium.com/@ambernaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ambernaz" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amber__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amber__" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,5 +27,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-amber&show_icons=true&locale=en" alt="dev-amber" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amber&" alt="dev-amber" /></p>
-
 
