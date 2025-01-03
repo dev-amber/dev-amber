@@ -1,6 +1,6 @@
 Hi 👋, I'm Amber naz</h1>
 <h3 align="center">A passionate Mern-Stack Developer from Pakistan</h3>
-<img align="right" alt="coding" width="350" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
 
 - 🌱 I’m currently learning **Mern-Stack,DSA, and others**
