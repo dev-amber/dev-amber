@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Amber naz</h1>
+![image](https://github.com/user-attachments/assets/f23be6c3-ce19-4f5e-ad00-806591a5a773)<h1 align="center">Hi 👋, I'm Amber naz</h1>
 <h3 align="center">A passionate Mern-Stack Developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="![Uploading image.png…]()
-">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
 
 - 🌱 I’m currently learning **Mern-Stack,DSA, and others**
