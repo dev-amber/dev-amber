@@ -1,11 +1,12 @@
  👋 Hi there, I'm Amber Naz
+         <h6> MERN STACK DEVELOPER </h6>
  <hr>
 🚀 About Me
-🌱 Currently mastering MERN Stack, DSA
-🔭 Working on Full-Stack Applications 
-📝 Sharing knowledge on Medium
-💬 Ask me about React.js, Node.js, C++
-📫 Reach me at ambernaz1000@gmail.com
+🌱<ul> Currently mastering MERN Stack, DSA </ul>
+🔭<ul> Working on Full-Stack Applications </ul>
+📝 <ul>Sharing knowledge on Medium</ul>
+💬 <ul>Ask me about React.js, Node.js, C++</ul>
+📫<ul> Reach me at ambernaz1000@gmail.com</ul>
 <hr>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amber-iftikhar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ambernaz1000@gmail.com) 
