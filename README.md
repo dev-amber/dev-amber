@@ -1,4 +1,12 @@
-
+ 👋 Hi there, I'm Amber Naz
+ <hr>
+🚀 About Me
+🌱 Currently mastering MERN Stack, DSA
+🔭 Working on Full-Stack Applications 
+📝 Sharing knowledge on Medium
+💬 Ask me about React.js, Node.js, C++
+📫 Reach me at ambernaz1000@gmail.com
+<hr>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amber-iftikhar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ambernaz1000@gmail.com) 
 
@@ -9,7 +17,13 @@
 ![](https://streak-stats.demolab.com/?user=dev-amber&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dev-amber&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dev-amber&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 [![](https://komarev.com/ghpvc/?username=dev-amber&icon=0&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->v
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
