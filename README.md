@@ -1,5 +1,6 @@
  👋 Hi there, I'm Amber Naz
-                                           <h6 classname="justify-center">💻 MERN Stack Developer </h6>
+                                           <h6 >💻 MERN Stack Developer </h6>
+                                           <hr>
 <h5>🚀 About Me </h5>
 <li>🌱 Currently mastering MERN Stack and Data Structures & Algorithms</li>
 <li>🔭 Working on Full-Stack Applications</li>
