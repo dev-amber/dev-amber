@@ -1,13 +1,12 @@
- 👋 Hi there, I'm Amber Naz
-         <h6> MERN STACK DEVELOPER </h6>
- <hr>
-🚀 About Me
-🌱<ul> Currently mastering MERN Stack, DSA </ul>
-🔭<ul> Working on Full-Stack Applications </ul>
-📝 <ul>Sharing knowledge on Medium</ul>
-💬 <ul>Ask me about React.js, Node.js, C++</ul>
-📫<ul> Reach me at ambernaz1000@gmail.com</ul>
+ 👋 Hi, I'm Amber Naz
+                                           <h6>💻 MERN Stack Developer </h6>
+🚀<h5> About Me </h5>
+<ul>🌱 Currently mastering MERN Stack and Data Structures & Algorithms</ul>
+<ul>🔭 Working on Full-Stack Applications</ul>
+<ul>💬 Ask me about React.js, Node.js, C++</ul>
+<ul>📫 Reach me at ambernaz1000@gmail.com</ul>
 <hr>
+ 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amber-iftikhar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ambernaz1000@gmail.com) 
 
@@ -20,11 +19,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dev-amber&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://komarev.com/ghpvc/?username=dev-amber&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
