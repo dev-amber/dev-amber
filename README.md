@@ -1,10 +1,10 @@
- 👋 Hi, I'm Amber Naz
-                                           <h6>💻 MERN Stack Developer </h6>
-🚀<h5> About Me </h5>
-<ul>🌱 Currently mastering MERN Stack and Data Structures & Algorithms</ul>
-<ul>🔭 Working on Full-Stack Applications</ul>
-<ul>💬 Ask me about React.js, Node.js, C++</ul>
-<ul>📫 Reach me at ambernaz1000@gmail.com</ul>
+ 👋 Hi there, I'm Amber Naz
+                                           <h6 classname="justify-center">💻 MERN Stack Developer </h6>
+<h5>🚀 About Me </h5>
+<li>🌱 Currently mastering MERN Stack and Data Structures & Algorithms</li>
+<li>🔭 Working on Full-Stack Applications</li>
+<li>💬 Ask me about React.js, Node.js, C++</li>
+<li>📫 Reach me at ambernaz1000@gmail.com</li>
 <hr>
  
 ## 🌐 Socials:
